@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="./fuji_banner.svg" alt="fuji_banner" width="100%" />
+  <a href="https://leon-ralis.dev/">
+    <img src="./fuji_banner.svg" alt="fuji_banner" width="100%" />
+  </a>
 </p>
 
 <!--
