@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+  <img src="./fuji_banner.svg" alt="fuji_banner" width="100%" />
+</p>
 
 <!--
 **Reonid/Reonid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
